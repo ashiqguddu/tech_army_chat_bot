@@ -60,7 +60,9 @@ export default function SignUp(){
           <span></span> <span></span> <span></span> <span></span> <span></span>
           <div className="signin">
             <div className="content">
-              <h2>Sign Up</h2>
+              <h2>Sign Up
+                
+              </h2>
 
               <div className="form">
                 <div className="inputBox">
